@@ -1,20 +1,21 @@
-body{
+body {
     background-color: black;
 }
 
-h1{
- color: blanchedalmond;
-}
-
-html, body{
-    text-align: center;
-}
-
-p{
+h1 {
     color: blanchedalmond;
 }
 
-div.sa{
+html,
+body {
+    text-align: center;
+}
+
+p {
+    color: blanchedalmond;
+}
+
+div.sa {
     border: solid hotpink;
     color: lavenderblush;
     width: 300px;
